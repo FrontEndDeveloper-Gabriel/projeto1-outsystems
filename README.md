@@ -6,5 +6,5 @@ Espero que gostem! ;)
 
 # <h4>Requisitos: <br>
 ● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
-● Link de acesso: <a href="https://personal-b7exbxag.outsystemscloud.com/PrimeiroProjetoOutSystems/"><strong>https://personalb7exbxag.outsystemscloud.com/PrimeiroProjetoOutSystems/</strong></a>
+● Link de acesso: <a href="https://personal-b7exbxag.outsystemscloud.com/PrimeiroProjetoOutSystems/"><strong>https://personal-b7exbxag.outsystemscloud.com/PrimeiroProjetoOutSystems/</strong></a>
 </h4>
